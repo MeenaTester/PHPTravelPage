@@ -1,0 +1,37 @@
+[
+     {
+      "cityname" : "London,United Kingdom",
+      "CheckInExpectedMonth"  : "June 2026",
+      "CheckInExpectedDate"   : "1",
+      "CheckOutExpectedMonth" : "June 2026",
+      "CheckOutExpectedDate" : "3",
+      "Rooms" : "1",
+      "Adults" : "2",
+      "Child" : "1",
+      "Nationality" : "Andorra",
+      "HotelName" : "Oasis Beach Tower",
+      "Result":"Not Found"  
+ 
+    },
+    {
+      "cityname" : "Dubai,United Arab Emirates",
+      "CheckInExpectedMonth"  : "June 2023",
+      "CheckInExpectedDate"   : "1",
+      "CheckOutExpectedMonth" : "June 2023",
+      "CheckOutExpectedDate" : "3",
+      "Rooms" : "1",
+      "Adults" : "2",
+      "Child" : "1",
+      "Nationality" : "Andorra",
+      "HotelName" : "Oasis Beach Tower",
+      "Result":"Found"  
+ 
+   }
+    
+   
+    
+
+
+
+
+]
